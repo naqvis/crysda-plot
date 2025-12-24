@@ -1,0 +1,16 @@
+name: crysda-plot
+version: 0.1.0
+description: Seamless plotting for Crysda DataFrames - line, scatter, bar, histogram, and box plots with grouped DataFrame support
+
+authors:
+  - Ali Naqvi <syed.alinaqvi@gmail.com>
+
+crystal: ~> 1.0
+
+license: MIT
+
+dependencies:
+  crysda:
+    github: naqvis/CrysDA
+  cryplot:
+    github: naqvis/cryplot
